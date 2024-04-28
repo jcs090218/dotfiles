@@ -1,2 +1,2 @@
 # dotfiles
-Windows user learning dotfiles
+> Windows user learning dotfiles
