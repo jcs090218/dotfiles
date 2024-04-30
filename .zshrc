@@ -105,3 +105,6 @@ source $ZSH/oh-my-zsh.sh
 
 bindkey '^[OA' up-line-or-history
 bindkey '^[OB' down-line-or-history
+
+# Modify path
+path+=('/opt/homebrew/opt/postgresql@16/bin/')
