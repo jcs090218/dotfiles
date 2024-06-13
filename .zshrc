@@ -108,3 +108,4 @@ bindkey '^[OB' down-line-or-history
 
 # Modify path
 path+=('/opt/homebrew/opt/postgresql@16/bin/')
+path+=('/Users/jenchieh/Documents/_workspace/cogru/bin/')
