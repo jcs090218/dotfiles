@@ -1,2 +1,8 @@
+\#*
+*.swp
+result
+
+.DS_Store
+
 !bin
 vim/bundle/
