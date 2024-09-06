@@ -1,5 +1,5 @@
 # Jen-Cheih's dotfiles
-> Windows user learning dotfiles
+> Currently focus on Nix
 
 ## ⚜️ License
 
