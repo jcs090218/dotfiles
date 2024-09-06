@@ -1,4 +1,4 @@
-# dotfiles
+# Jen-Cheih's dotfiles
 > Windows user learning dotfiles
 
 ## ⚜️ License
