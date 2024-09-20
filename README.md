@@ -1,4 +1,4 @@
-# Jen-Cheih's dotfiles
+# Jen-Chieh's dotfiles
 > Currently focus on Nix
 
 ## ⚜️ License
