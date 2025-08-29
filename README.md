@@ -3,8 +3,8 @@
 
 ## 🏆 Features
 
-- [JCS Emacs](https://github.com/jcs-emacs/jcs-emacs) - Emacs
-- [zsh](https://ohmyz.sh/) - Z shell
+- [JCS Emacs][jcs-emacs] - Emacs
+- [zsh][] - Z shell
 
 ## ⚜️ License
 
@@ -34,3 +34,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 See [`LICENSE`](./LICENSE) for details.
+
+
+<!-- Links -->
+
+[jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
+[zsh]: https://ohmyz.sh/
