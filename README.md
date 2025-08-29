@@ -3,6 +3,7 @@
 
 ## 🏆 Features
 
+- [JCS Emacs](https://github.com/jcs-emacs/jcs-emacs) - Emacs
 - [zsh](https://ohmyz.sh/) - Z shell
 
 ## ⚜️ License
