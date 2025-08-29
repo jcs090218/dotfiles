@@ -1,6 +1,10 @@
 # Jen-Chieh's dotfiles
 > Currently focus on Nix
 
+## 🏆 Features
+
+- [zsh](https://ohmyz.sh/) - Z shell
+
 ## ⚜️ License
 
 This program is free software; you can redistribute it and/or modify
