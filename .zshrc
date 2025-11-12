@@ -13,7 +13,6 @@ source ~/.zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 # Which plugins would you like to load?
 plugins=(git)
 
-
 source $ZSH/oh-my-zsh.sh
 
 #
