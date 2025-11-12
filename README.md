@@ -6,6 +6,8 @@
 ## 🏆 Features
 
 - [JCS Emacs][jcs-emacs] - Emacs
+- [JCS Vim][jcs-vim] - Vim
+- [JCS Lem][jcs-lem] - Lem
 - [zsh][] - Z shell
 
 ## ⚜️ License
@@ -41,4 +43,6 @@ See [`LICENSE`](./LICENSE) for details.
 <!-- Links -->
 
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
+[jcs-vim]: https://github.com/jcs090218/jcs-vim
+[jcs-lem]: https://github.com/jcs090218/jcs-lem
 [zsh]: https://ohmyz.sh/
