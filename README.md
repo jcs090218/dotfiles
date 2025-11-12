@@ -5,9 +5,10 @@
 
 ## 🏆 Features
 
-- [JCS Emacs][jcs-emacs] - Emacs
-- [JCS Vim][jcs-vim] - Vim
-- [JCS Lem][jcs-lem] - Lem
+- [JCS Emacs][jcs-emacs] - Emacs configuration
+- [JCS Vim][jcs-vim] - Vim configuration
+- [JCS Lem][jcs-lem] - Lem configuration
+- [Tmux][] - Terminal window and session manager
 - [zsh][] - Z shell
 
 ## ⚜️ License
@@ -45,4 +46,6 @@ See [`LICENSE`](./LICENSE) for details.
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
 [jcs-lem]: https://github.com/jcs090218/jcs-lem
+
+[Tmux]: https://github.com/tmux/tmux/wiki
 [zsh]: https://ohmyz.sh/
