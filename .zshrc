@@ -26,14 +26,3 @@ source ~/.env
 
 bindkey '^[OA' up-line-or-history
 bindkey '^[OB' down-line-or-history
-
-# PATH environment
-path+=('/opt/homebrew/opt/postgresql@16/bin/')
-path+=('/Users/jenchieh/Documents/_workspace/Cogru/cogru/bin/')
-
-## Emacs
-path+=('/Users/jenchieh/Documents/_lang/elisp/eask/cli/bin/')
-
-## Nix
-path+=('/nix/var/nix/profiles/default/bin/')
-path+=('/Users/jenchieh/.nix-profile/bin/')
