@@ -3,6 +3,8 @@
 # Jen-Chieh's dotfiles
 > Currently focus on Nix
 
+![](etc/screenshots/1.png)
+
 ## 🏆 Features
 
 - [JCS Emacs][jcs-emacs] - Emacs configuration
