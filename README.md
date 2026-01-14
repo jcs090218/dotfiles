@@ -1,6 +1,6 @@
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg)](http://unlicense.org/)
 
-# Jen-Chieh's dotfiles
+# dotfiles
 > Currently focus on Nix
 
 ![](etc/screenshots/1.png)
