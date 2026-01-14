@@ -1,0 +1,34 @@
+name: 'Setup'
+
+on:
+  pull_request:
+  push:
+    paths-ignore:
+    - '**.md'
+    - '**.org'
+    branches:
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  setup:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+        - os: ubuntu-latest
+        - os: macos-latest
+
+    steps:
+    - uses: cachix/install-nix-action@v25
+      with:
+        nix_path: nixpkgs=channel:nixos-unstable
+
+    - name: Setup dotfiles
+      run: |
+        git clone https://github.com/${{ github.repository_owner }}/dotfiles" ~/dotfiles --recursive
