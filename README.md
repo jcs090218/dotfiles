@@ -7,6 +7,7 @@
 
 ## 🏆 Features
 
+- [Nord Theme][] - currently shifting.
 - [NixOS][] configuration
 - [JCS Emacs][jcs-emacs] - Emacs configuration
 - [JCS Vim][jcs-vim] - Vim configuration
@@ -49,6 +50,8 @@ See [`LICENSE`](./LICENSE) for details.
 [NixOS]: https://nixos.org/
 [Tmux]: https://github.com/tmux/tmux/wiki
 [zsh]: https://ohmyz.sh/
+
+[Nord Theme]: https://www.nordtheme.com/
 
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
