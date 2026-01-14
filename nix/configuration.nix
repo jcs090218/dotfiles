@@ -77,5 +77,5 @@ in
     '';
   };
 
-  system.stateVersion = "25.01";
+  system.stateVersion = "25.11";
 }
