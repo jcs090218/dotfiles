@@ -8,6 +8,7 @@
 ## 🏆 Features
 
 - [Nord Theme][] - currently shifting.
+- [Wallpapers][] - random collections from the internet.
 - [NixOS][] configuration
 - [JCS Emacs][jcs-emacs] - Emacs configuration
 - [JCS Vim][jcs-vim] - Vim configuration
@@ -61,6 +62,8 @@ See [`LICENSE`](./LICENSE) for details.
 [zsh]: https://ohmyz.sh/
 
 [Nord Theme]: https://www.nordtheme.com/
+
+[Wallpapers]: ./etc/wallpapers/
 
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
