@@ -9,10 +9,10 @@ in
     [
       self.inputs.home-manager.nixosModules.home-manager
       ./internal/overlays.nix
-      ./internal/boot.nix
-      ./internal/hardware.nix
-      ./internal/desktop.nix
-      ./internal/cli.nix
+      #./internal/boot.nix
+      #./internal/hardware.nix
+      #./internal/desktop.nix
+      #./internal/cli.nix
       #./internal/samba.nix
       ./internal/misc.nix
     ];
