@@ -8,13 +8,13 @@ in
   imports =
     [
       self.inputs.home-manager.nixosModules.home-manager
-      ./configurations/overlays.nix
-      ./configurations/boot.nix
-      ./configurations/hardware.nix
-      ./configurations/desktop.nix
-      ./configurations/cli.nix
-      ./configurations/samba.nix
-      ./configurations/misc.nix
+      ./internal/overlays.nix
+      ./internal/boot.nix
+      ./internal/hardware.nix
+      ./internal/desktop.nix
+      ./internal/cli.nix
+      #./internal/samba.nix
+      ./internal/misc.nix
     ];
 
   home-manager = {
