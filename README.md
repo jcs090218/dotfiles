@@ -7,6 +7,7 @@
 
 ## 🏆 Features
 
+- [NixOS][] configuration
 - [JCS Emacs][jcs-emacs] - Emacs configuration
 - [JCS Vim][jcs-vim] - Vim configuration
 - [JCS Lem][jcs-lem] - Lem configuration
@@ -45,9 +46,10 @@ See [`LICENSE`](./LICENSE) for details.
 
 <!-- Links -->
 
+[NixOS]: https://nixos.org/
+[Tmux]: https://github.com/tmux/tmux/wiki
+[zsh]: https://ohmyz.sh/
+
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
 [jcs-lem]: https://github.com/jcs090218/jcs-lem
-
-[Tmux]: https://github.com/tmux/tmux/wiki
-[zsh]: https://ohmyz.sh/
