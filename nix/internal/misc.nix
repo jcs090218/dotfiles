@@ -9,5 +9,5 @@
     defaultLocale = "en_US.UTF-8";
   };
 
-  time.timeZone = "America/Sao_Paulo";
+  time.timeZone = "Asia/Taipei";
 }
