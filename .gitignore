@@ -2,7 +2,15 @@
 *.swp
 result
 
+.git/
+.vscode/
+.vs/
+.eask/
+
 .DS_Store
 
 !bin
 vim/bundle/
+
+*.elc
+dist/
