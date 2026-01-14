@@ -44,6 +44,7 @@ For more information, please refer to <https://unlicense.org>
 
 See [`LICENSE`](./LICENSE) for details.
 
+
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
