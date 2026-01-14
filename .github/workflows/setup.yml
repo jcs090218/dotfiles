@@ -31,4 +31,4 @@ jobs:
 
     - name: Setup dotfiles
       run: |
-        git clone https://github.com/${{ github.repository_owner }}/dotfiles" ~/dotfiles --recursive
+        git clone https://github.com/${{ github.repository_owner }}/dotfiles ~/dotfiles --recursive
