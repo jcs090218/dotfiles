@@ -1,6 +1,7 @@
 # OS generated
 .DS_Store
 
-# settings
-/custom.el
-/config.el
+*.el
+
+/.eask
+/dist

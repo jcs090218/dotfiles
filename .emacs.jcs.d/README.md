@@ -1,4 +1,7 @@
-This is the place for your own configuration.
+# .emacs.jcs.d
 
-This directory and its immediate subdirectories will be added to `load-path` at
-start-up time.
+My personal configuration for [JCS-Emacs][].
+
+
+<!-- Links -->
+[JCS-Emacs]: https://github.com/jcs-emacs/jcs-emacs
