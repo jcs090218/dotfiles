@@ -1,7 +1,7 @@
 # OS generated
 .DS_Store
 
-*.el
+*.elc
 
 /.eask
 /dist
