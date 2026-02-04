@@ -8,3 +8,8 @@
 	required = true
 [core]
 	autocrlf = true
+[sendemail]
+  smtpEncryption = tls
+  smtpServer = smtp.gmail.com
+  smtpUser = jcs090218@gmail.com
+  smtpServerPort = 587
