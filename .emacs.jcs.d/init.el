@@ -8,10 +8,13 @@
 ;;
 ;;; Mail
 
-(setq message-send-mail-function #'smtpmail-send-it)
+(use-package message
+  :config
+  (setq message-send-mail-function #'smtpmail-send-it)
 
-(setq send-mail-function #'smtpmail-send-it
-      smtpmail-default-smtp-server "smtp.gmail.com"
-      smtpmail-smtp-service 587)  ; 456 for SSL / 587 for TLS
+  (setq send-mail-function #'smtpmail-send-it
+        smtpmail-default-smtp-server "smtp.gmail.com"
+        ;; 456 for SSL / 587 for TLS
+        smtpmail-smtp-service 587))
 
 ;;; init.el ends here
